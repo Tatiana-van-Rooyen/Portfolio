@@ -2,6 +2,6 @@
 
 | Описание проека | Инструменты  | Выводы |
 |:------------- |:---------------| -------------|
-| АВС-анализ ассортимента, анализ динамики выручки товарных категорий в разрезе месяцев| Pandas, Numpy, Re, Matplotlib, Plotly, SciPy   | Pandas, Numpy, Re, Matplotlib, Plotly, SciPy |Выводы|
+| АВС-анализ ассортимента, анализ динамики выручки товарных категорий в разрезе месяцев| Pandas, Numpy, Re, Matplotlib, Plotly, SciPy   | Pandas, Numpy, Re, Matplotlib, Plotly, SciPy |
 
 
